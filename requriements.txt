@@ -1,3 +1,7 @@
 streamlit
 selenium
 webdriver-manager
+
+registration/
+   test_app.py
+requirements.txt
