@@ -1,2 +1,4 @@
+selenium
 streamlit
 flask
+webdriver-manager
